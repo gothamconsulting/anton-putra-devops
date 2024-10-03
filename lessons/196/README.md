@@ -13,3 +13,7 @@ You can find tutorial [here](https://youtube.com/playlist?list=PLiMWaCMwGJXnKY6X
 - Manually delete IAM user secret keys from the AWS Console.
 - `terraform destroy --target helm_release.external_nginx`
 - `terraform destroy`
+
+
+
+*BLA!
